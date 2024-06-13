@@ -1,0 +1,404 @@
+body{
+
+    color: black;
+font-family: "Libre Franklin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+  ;
+    
+}
+
+h1{
+
+font-family: "Libre Franklin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+  ;
+    
+}
+
+h2{
+
+font-family: "Libre Franklin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+  ;
+    
+}
+
+h3{
+font-family: "Libre Franklin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+  ;
+    
+}
+
+
+#Barra-menu{
+background-color: black;
+border-bottom-left-radius: 40px;
+border-bottom-right-radius: 40px;
+
+}
+
+#menu{
+
+    text-align: end;
+    margin: 0; 
+    padding: 0;
+    }
+    
+
+#opciones-menu li {
+
+    color: rgb(255, 217, 0);
+    font-size: 10px;
+    margin: 0;
+    padding: 10px ;
+
+}
+
+#header{
+
+    padding-top: 100px;
+    text-align: center;
+
+}
+
+#header p{
+
+    padding-top: 40px;
+    font-size: 25px;
+
+}
+
+#seccion1{
+
+text-align: center;
+padding-top: 130px;
+}
+
+.wave{
+
+position: absolute;
+top: 100;
+bottom: 100;
+left: 0;
+width: 100%;
+height: 300px;
+background-image: url(./imagen/Ondas.png);
+background-size: 100% 100%;
+
+}
+
+
+
+
+#seccion1-boton{
+
+    background-color: rgb(0, 0, 0) ;
+    color: white;
+    font-size: 40px;
+    border-radius: 40px;
+    margin-top: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
+
+}
+
+#seccion2{
+
+text-align: left;
+margin-top: 100px;
+}
+
+#Text2 p{
+
+font-size: 20px;
+
+}
+
+.wave2{
+
+    position: absolute;
+    top: 100;
+    bottom: 100;
+    left: 0;
+    width: 100%;
+    height: 200px;
+    background-image: url(./imagen/Onda2.png);
+    background-size: 100% 100%;
+    
+    }
+
+
+
+#card{
+border: none;
+margin: 0;
+padding: 0;
+background-color: #ffdf00;
+color: black;
+
+}
+
+
+
+.wave3{
+
+    position: absolute;
+    top: 100;
+    bottom: 100;
+    left: 0;
+    width: 100%;
+    height: 200px;
+    background-image: url(./imagen/Onda.png);
+    background-size: 100% 100%;
+    
+    }
+
+
+#titulo h1{
+
+    margin-top: 40px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+#subtitulos{
+
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+
+    color: black;
+font-family: "Libre Franklin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+  ;
+
+  margin: 0;
+  padding: 0;
+  border: none;
+    
+}
+
+h1{
+
+font-family: "Libre Franklin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+  ;
+    
+}
+
+h2{
+
+font-family: "Libre Franklin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+  ;
+    
+}
+
+h3{
+font-family: "Libre Franklin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+  ;
+    
+}
+
+
+#Barra-menu{
+background-color: black;
+border-bottom-left-radius: 40px;
+border-bottom-right-radius: 40px;
+
+}
+
+#menu{
+
+    text-align: end;
+    margin: 0; 
+    padding: 0;
+    }
+    
+
+#opciones-menu li a{
+
+    color: rgb(255, 217, 0);
+    font-size: 10px;
+    margin: 0;
+
+}
+
+#headerM{
+
+    padding-top: 50px;
+    text-align: center;
+
+}
+
+#headerM p{
+
+    padding-top: 40px;
+    font-size: 20px;
+
+}
+
+#seccion1M{
+
+text-align: center;
+padding-top: 95px;
+}
+
+.waveM{
+position: relative;
+bottom: 0px;
+left: 0;
+right: 0;
+width: 100%;
+height: 100px;
+background-image: url(./imagen/Ondas.png);
+background-size: 100% 100%;
+
+}
+
+
+
+
+#seccion1-botonM{
+
+    background-color: rgb(0, 0, 0) ;
+    color: white;
+    font-size: 15px;
+    border-radius: 40px;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+#seccion2{
+
+margin-top: 100px;
+}
+
+#Text2 p{
+text-align: left;
+font-size: 12px;
+
+}
+
+
+#Text3M p{
+    text-align: left;
+    font-size: 12px;
+    
+}
+
+.wave2{
+
+    position: absolute;
+    top: 100;
+    bottom: 100;
+    left: 0;
+right: 0;
+    width: 100%;
+    height: 100px;
+    background-image: url(./imagen/Onda2.png);
+    background-size: 100% 100%;
+    
+    }
+
+
+
+#card{
+border: none;
+margin: 0;
+padding: 0;
+background-color: #ffdf00;
+color: black;
+
+}
+
+
+
+.wave3{
+
+    position: absolute;
+    top: 100;
+    bottom: 100;
+    left: 0;
+right: 0;
+    width: 100%;
+    height: 100px;
+    background-image: url(./imagen/Onda.png);
+    background-size: 100% 100%;
+    
+    }
+
+
+#titulo {
+
+    margin-top: 40px;
+    color: rgb(255, 217, 0);
+    text-align: center;
+
+}
+
+#subtitulosM{
+    font-size: 12px;
+    margin-top: 20px;
+    color: rgb(255, 217, 0);
+    text-align: center;
+}
