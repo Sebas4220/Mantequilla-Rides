@@ -243,12 +243,20 @@ font-family: "Libre Franklin", sans-serif;
 }
 
 
-#Barra-menu{
-background-color: black;
-border-bottom-left-radius: 40px;
-border-bottom-right-radius: 40px;
+.navbar-toggler:focus{
 
-}
+    border: none;
+    background-color: transparent;
+    box-shadow: none;
+    
+    }
+    
+    #Barra-menu{
+        background-color: black;
+        border-bottom-left-radius: 40px;
+        border-bottom-right-radius: 40px;
+        
+        }
 
 #menu{
 
@@ -258,13 +266,13 @@ border-bottom-right-radius: 40px;
     }
     
 
-#opciones-menu li a{
+    #opciones-menu li a{
 
-    color: rgb(255, 217, 0);
-    font-size: 10px;
-    margin: 0;
-
-}
+        color: rgb(255, 255, 255);
+        font-size: 10px;
+        margin: 0;
+        text-align: center;
+    }
 
 #opciones-menu1 li a{
 
