@@ -266,6 +266,22 @@ border-bottom-right-radius: 40px;
 
 }
 
+#opciones-menu1 li a{
+
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    margin: 0;
+
+}
+
+#opciones-menu2 li a{
+
+    color: rgb(255, 217, 0);
+    font-size: 20px;
+    margin: 0;
+
+}
+
 #headerM{
 
     padding-top: 50px;
